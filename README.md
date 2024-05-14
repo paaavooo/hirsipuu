@@ -29,4 +29,4 @@ Suorita lähdekoodi Python-ympäristössä.
 Noudata pelin antamia ohjeita ja arvaa salainen sana kirjain kirjaimelta.
 
 
-![Vuo-kaavio](images/Hirsipuu.png)
+![Vuo-kaavio](Hirsipuu kaavio2.pdf)
