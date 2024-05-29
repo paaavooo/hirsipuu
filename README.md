@@ -29,7 +29,7 @@ Varmista, että sinulla on Python asennettuna:
 
 Voit ladata Pythonin täältä (https://www.python.org/downloads/) ja asentaa sen käyttöjärjestelmääsi sopivalla tavalla.
 
-Kopioi yllä oleva koodi ja liitä se uuteen tiedostoon. Tallenna tiedosto nimellä hirsipuu.py (tai muulla haluamallasi nimellä).
+Kopioi koodi ja liitä se uuteen tiedostoon. Tallenna tiedosto nimellä hirsipuu.py (tai muulla haluamallasi nimellä).
 
 Avaa komentorivi (Command Prompt, Terminal tai vastaava) ja navigoi hakemistoon, jossa hirsipuu.py sijaitsee.
 
