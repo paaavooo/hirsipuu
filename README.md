@@ -25,22 +25,21 @@ Käytämme funktioita pelin eri osien toteuttamiseen.
 
 Käynnistysohjeet:
 
-Varmista, että sinulla on Python asennettuna:
+1. Varmista, että sinulla on Python asennettuna:
+- Voit ladata Pythonin täältä (https://www.python.org/downloads/) ja asentaa sen käyttöjärjestelmääsi sopivalla tavalla.
 
-Voit ladata Pythonin täältä (https://www.python.org/downloads/) ja asentaa sen käyttöjärjestelmääsi sopivalla tavalla.
+2. Kopioi koodi ja liitä se uuteen tiedostoon. Tallenna tiedosto nimellä hirsipuu.py (tai muulla haluamallasi nimellä).
 
-Kopioi koodi ja liitä se uuteen tiedostoon. Tallenna tiedosto nimellä hirsipuu.py (tai muulla haluamallasi nimellä).
+3. Avaa komentorivi (Command Prompt, Terminal tai vastaava) ja navigoi hakemistoon, jossa hirsipuu.py sijaitsee.
 
-Avaa komentorivi (Command Prompt, Terminal tai vastaava) ja navigoi hakemistoon, jossa hirsipuu.py sijaitsee.
-
-Suorita skripti komennolla:
+4. Suorita skripti komennolla:
 python hirsipuu.py
 
-Noudata pelin ohjeita:
+5. Noudata pelin ohjeita:
 
-Valitse vaikeustaso syöttämällä "helppo", "keski" tai "vaikea".
-Arvaa kirjaimia yksitellen kirjoittamalla kirjain ja painamalla Enter.
-Voit lopettaa pelin milloin tahansa kirjoittamalla "end".
+- Valitse vaikeustaso syöttämällä "helppo", "keski" tai "vaikea".
+- Arvaa kirjaimia yksitellen kirjoittamalla kirjain ja painamalla Enter.
+- Voit lopettaa pelin milloin tahansa kirjoittamalla "end".
 
 Nauti hirsipuun pelaamisesta!
 
