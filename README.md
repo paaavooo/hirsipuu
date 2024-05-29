@@ -23,10 +23,26 @@ Käytämme funktioita pelin eri osien toteuttamiseen.
 
 ### Ohjelman käynnistäminen
 
-Asenna Python, jos sitä ei ole vielä asennettu.
-Lataa sovelluksen lähdekoodi.
-Suorita lähdekoodi Python-ympäristössä.
-Noudata pelin antamia ohjeita ja arvaa salainen sana kirjain kirjaimelta.
+Käynnistysohjeet:
+
+Varmista, että sinulla on Python asennettuna:
+
+Voit ladata Pythonin täältä (https://www.python.org/downloads/) ja asentaa sen käyttöjärjestelmääsi sopivalla tavalla.
+
+Kopioi yllä oleva koodi ja liitä se uuteen tiedostoon. Tallenna tiedosto nimellä hirsipuu.py (tai muulla haluamallasi nimellä).
+
+Avaa komentorivi (Command Prompt, Terminal tai vastaava) ja navigoi hakemistoon, jossa hirsipuu.py sijaitsee.
+
+Suorita skripti komennolla:
+python hirsipuu.py
+
+Noudata pelin ohjeita:
+
+Valitse vaikeustaso syöttämällä "helppo", "keski" tai "vaikea".
+Arvaa kirjaimia yksitellen kirjoittamalla kirjain ja painamalla Enter.
+Voit lopettaa pelin milloin tahansa kirjoittamalla "end".
+
+Nauti hirsipuun pelaamisesta!
 
 
 ![Vuo-kaavio](images/vuokaaviohirsipuu.png)
