@@ -30,3 +30,4 @@ Noudata pelin antamia ohjeita ja arvaa salainen sana kirjain kirjaimelta.
 
 
 ![Vuo-kaavio](images/vuokaaviohirsipuu.png)
+
