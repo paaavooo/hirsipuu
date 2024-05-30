@@ -1,5 +1,8 @@
 # Hirsipuu
 
+## Tekijät
+Teemu Markus, Paavo Koivistoinen ja Jenni Koivisto
+
 ## Pelinkuvaus
 
 Ohjelman lyhyt esittely:

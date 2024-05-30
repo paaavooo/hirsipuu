@@ -105,7 +105,7 @@ def pelaahirsipuuta():
 
     arvatut_kirjaimet = set()  # Alustetaan arvatut kirjaimet tyhjäksi joukoksi
     yritykset = 0  # Alustetaan yritykset laskuri
-    maksimiyritykset = 7
+    maksimiyritykset = 6
 
     while True:
         vihje = nayta_vihje(sana, arvatut_kirjaimet)  # Näytetään vihje
@@ -118,12 +118,14 @@ def pelaahirsipuuta():
 
         arvatut_kirjaimet.add(arvaus)  # Lisätään arvaus arvattujen joukkoon
 
-        print(HANGMANKUVA[yritykset])
+        
 
         if arvaus not in sana:  # Tarkistetaan, oliko arvaus väärin
             yritykset += 1  # Päivitetään yritysten määrää
             jaljella = maksimiyritykset - yritykset
             print(f"Väärin! Yritä uudelleen. Elämiä jäljellä {jaljella}.")
+
+        print(HANGMANKUVA[yritykset])
         
         if set(sana) <= arvatut_kirjaimet:  # Tarkistetaan, onko kaikki kirjaimet arvattu
             print(f"\nOnneksi olkoon, voitit pelin! Oikea sana oli \"{sana}\".")
