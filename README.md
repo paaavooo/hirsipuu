@@ -46,6 +46,7 @@ python hirsipuu.py
 
 Nauti hirsipuun pelaamisesta!
 
+Linkki videodemoon on [Videodemo](https://youtu.be/zMfndWBr_mY).
 
 ![Vuo-kaavio](images/vuokaaviohirsipuu.png)
 
